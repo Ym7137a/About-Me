@@ -1,10 +1,10 @@
 About me : 
 
-👋 Hello there! I'm Yashvi Malviya, a passionate Data-driven Analyst. Welcome to my corner of GitHub!
+👋 Hello there! I'm Yashvi Malviya, a passionate Data-driven Business Analyst. Welcome to my corner of GitHub!
 
 Who Am I?
 
-I'm a Data Analyst with a keen interest in Research & Analysis. I thrive on challenges and enjoy exploring new ideas, technologies, and methodologies to solve complex problems.
+I'm a Business Data Analyst with a keen interest in Business Intelligence and Data Science. I thrive on challenges and enjoy exploring new ideas, technologies, and methodologies to solve complex problems.
 
 What Do I Do?
 
@@ -14,7 +14,7 @@ Get in Touch
 
 I'm always open to collaboration, feedback, and connecting with fellow developers and enthusiasts. Let's Connect!
 
-🌐 Website: https://ym7137a.github.io/Ym7137a/
+🌐 Website: 
 
 🔗 Linkedin: https://www.linkedin.com/in/yashvimalviya/
 
